@@ -1,0 +1,18 @@
+[
+  {
+    "fullname": "asd",
+    "message": "Mesjlar bizden",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Gates_June_2015.png",
+    "soundUrl": "",
+    "date": "5:45 AM",
+    "msgInfo": "gray"
+  },
+  {
+    "fullname": "fasdasd",
+    "message": "Mesjlaasdasdasdr bizden",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Gates_June_2015.png",
+    "soundUrl": "",
+    "date": "5:45 PM",
+    "msgInfo": "blue"
+  }
+]

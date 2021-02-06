@@ -1,20 +1,24 @@
 [
   {
-    "fullname": "asd",
-    "message": "Mesjlar bizden",
+    "fullname": "Steve Jobs",
+    "message": "Selam Bill Nasılsın?",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Gates_June_2015.png",
-    "soundUrl": "",
-    "date": "5:45 AM",
-    "isMuted" : false,
-    "msgInfo": "gray"
+    "date": "00:18 AM",
+    "msgInfo": "readed"
   },
   {
-    "fullname": "fasdasd",
-    "message": "Mesjlaasdasdasdr bizden",
+    "fullname": "Nicola Tesla",
+    "message": "1 saat önce aktifti",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Gates_June_2015.png",
+    "date": "00:52 PM",
+    "isMuted" : true,
+    "msgInfo": "received"
+  },
+  {
+    "fullname": "Ada Lovelace",
+    "message": "Bir Ses Klibi Gönderdi",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bill_Gates_June_2015.png",
     "soundUrl": "merhaba.mp3",
-    "date": "5:45 PM",
-    "isMuted" : true,
-    "msgInfo": "blue"
+    "date": "03:37 PM"
   }
 ]

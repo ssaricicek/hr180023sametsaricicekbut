@@ -2,14 +2,14 @@
   {
     "fullname": "Steve Jobs",
     "message": "Selam Bill Nasılsın?",
-    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/blob/main/stevejobs.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/main/stevejobs.jpg",
     "date": "00:18 AM",
     "msgInfo": "readed"
   },
   {
     "fullname": "Nicola Tesla",
     "message": "1 saat önce aktifti",
-    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/blob/main/tesla.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/main/tesla.jpg",
     "date": "00:52 PM",
     "isMuted" : true,
     "msgInfo": "received"
@@ -17,7 +17,7 @@
   {
     "fullname": "Ada Lovelace",
     "message": "Bir Ses Klibi Gönderdi",
-    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/blob/main/ada-lovelace.png",
+    "photoUrl": "https://raw.githubusercontent.com/ssaricicek/hr180023sametsaricicekbut/main/ada-lovelace.png",
     "soundUrl": "merhaba.mp3",
     "date": "03:37 PM"
   }
